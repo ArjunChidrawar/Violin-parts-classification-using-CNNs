@@ -1,6 +1,6 @@
 # violin-part-classifier
-NOTE: The data we used is confidential and cannot be uploaded here (Attained from the Cozio Archive). But please feel free to look at our code! \\
-Credits: Worked with Nathaniel Tunggal on this project.
+NOTE: The data we used is confidential and cannot be uploaded here (Attained from the Cozio Archive). But please feel free to look at our code! \n
+Credits: Worked with Nathaniel Tunggal on this project. \n
 We use a convolutional neural network to classify parts of a violin.
 This program makes 11 different classifications listed below:
     back: violin_back
