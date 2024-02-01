@@ -1,21 +1,21 @@
 # violin-part-classifier
-NOTE: The data we used is confidential and cannot be uploaded here (Attained from the Cozio Archive). But please feel free to look at our code! \n
-Credits: Worked with Nathaniel Tunggal on this project. \n
-We use a convolutional neural network to classify parts of a violin.
-This program makes 11 different classifications listed below:
-    back: violin_back
-    bb: back_zoom
-    bside: violin_left
-    fb: front_zoom
-    front: scroll_front
-    head: scroll_left
-    label: label
-    rear: scroll_back
-    top: violin_front
-    treb: scroll_right
-    tside: violin_right
+NOTE: The data we used is confidential and cannot be uploaded here (Attained from the Cozio Archive). But please feel free to look at our code! <br />
+Credits: Worked with Nathaniel Tunggal on this project. <br />
+We use a convolutional neural network to classify parts of a violin. <br />
 This project is based on the cifar-10 pytorch tutorial, which we adapted for the purposes of this classification task.
-We achieve 98% accuracy with this model (4 epochs and 20,000 images).
+We achieve 98% accuracy with this model (4 epochs and 20,000 images). <br />
+This program makes 11 different classifications listed below: <br />
+    back: violin_back <br />
+    bb: back_zoom <br />
+    bside: violin_left <br />
+    fb: front_zoom <br />
+    front: scroll_front <br />
+    head: scroll_left <br />
+    label: label <br />
+    rear: scroll_back <br />
+    top: violin_front <br />
+    treb: scroll_right <br />
+    tside: violin_right <br />
 
 ## Resources
 Patrick Loeber PyTorch Tutorial 14 - CNN
